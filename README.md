@@ -1,2 +1,0 @@
-# whatisagam
-Data Science Portfolio
